@@ -1,0 +1,3 @@
+mariadb
+selenium
+captcha_solver
