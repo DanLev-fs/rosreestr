@@ -9,8 +9,8 @@ from captcha_solver import CaptchaSolver
 from PIL import Image
 from io import BytesIO
 
-api = "a9f93afd26ceafd0a822a03ce7c54467"
-key = "74f57d5f-24f0-4fc9-8266-e8e2fbb0a493"
+api = ""
+key = ""
 kadastr = "69:43:0070826:3"
 region = "Тверская область"
 headers = {"Host": "rosreestr.gov.ru",
