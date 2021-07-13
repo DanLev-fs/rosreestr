@@ -14,7 +14,7 @@ street = "Ленинградское"
 house = "25"
 korp = "2"
 structure = ""
-api = "a9f93afd26ceafd0a822a03ce7c54467"
+api = ""
 
 def captcha_solve(key):
 	if key is not None:
