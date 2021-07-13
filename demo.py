@@ -9,10 +9,10 @@ from captcha_solver import CaptchaSolver
 from PIL import Image
 from io import BytesIO
 
-api = ""
-key = ""
-kadastr = "69:43:0070826:3"
-region = "Тверская область"
+api = "" #Ключ антикапчи
+key = "" #Ключ ЕГРН
+kadastr = "" #Кадастровый номер
+region = "Тверская область" #Регион
 headers = {"Host": "rosreestr.gov.ru",
 "Connection": "keep-alive",
 "sec-ch-ua": '"Google Chrome";v="87", " Not;A Brand";v="99", "Chromium";v="87"',
